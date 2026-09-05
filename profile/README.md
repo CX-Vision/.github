@@ -22,8 +22,6 @@ Kamera tabanlı bilgisayarla görü sistemleri ile endüstriyel ortamlarda güve
 
 ## 🛠️ Teknoloji Stack
 
-## 🛠️ Teknoloji Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/YOLO11-111111?logo=ultralytics&logoColor=white&style=for-the-badge" alt="YOLO11">
