@@ -18,7 +18,7 @@ Kamera tabanlı bilgisayarla görü sistemleri ile endüstriyel ortamlarda güve
 
 | Proje | Açıklama | Durum |
 |-------|----------|-------|
-| [forklift-safety-ai](https://github.com/ComputerVision-Cx/forklift-safety-ai) | Forklift-insan etkileşiminde güvenlik ihlali tespiti, bölge analizi ve mesafe ölçümü | 🟡 Geliştirme aşamasında |
+| [forklift-safety-ai]  | Forklift-insan etkileşiminde güvenlik ihlali tespiti, bölge analizi ve mesafe ölçümü | 🟡 Geliştirme aşamasında |
 
 ## 🛠️ Teknoloji Stack
 
